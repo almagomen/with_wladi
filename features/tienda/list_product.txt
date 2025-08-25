@@ -1,0 +1,35 @@
+Lista de productos disponibles en la tienda:
+
+1. Mermelada de frutos rojos - 250g
+2. Pan artesanal integral - 500g
+3. Queso de cabra local - 200g
+4. Café orgánico molido - 250g
+5. Jabón natural de lavanda - 100g
+6. Miel pura de abejas - 300g
+7. Aceite de oliva extra virgen - 500ml
+8. Galletas de avena y pasas - 200g
+9. Té verde artesanal - 100g
+10. Chocolate oscuro artesanal - 80g
+11. Salsa picante casera - 150ml
+12. Granola natural - 350g
+13. Vela aromática de soja - 120g
+14. Frutos secos mixtos - 200g
+15. Harina de maíz orgánica - 1kg
+16. Yogur natural artesanal - 250g
+17. Mantequilla de maní - 200g
+18. Chutney de mango - 180g
+19. Sal marina gourmet - 250g
+20. Pasta artesanal de trigo - 500g
+21. Tomates deshidratados - 100g
+22. Crema de almendras - 150g
+23. Infusión de hierbas locales - 50g
+24. Licor de café artesanal - 350ml
+25. Mermelada de naranja amarga - 250g
+26. Queso ahumado de vaca - 250g
+27. Pan de centeno con semillas - 400g
+28. Jabón de carbón activado - 90g
+29. Aceitunas rellenas - 150g
+30. Mermelada de guayaba - 250g
+
+¡Gracias por elegir productos locales y apoyar a los productores de la región!
+
