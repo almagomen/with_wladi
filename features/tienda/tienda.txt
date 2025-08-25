@@ -3,3 +3,7 @@ La tienda ofrece una amplia variedad de productos locales y artesanales, brindan
 --------------------------
 
 Correccion de bugs
+
+--------------------------
+
+Conexion con lista de productos
