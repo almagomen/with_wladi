@@ -1,1 +1,4 @@
 mi primera linea
+
+console.log("Hola mundo")
+console.log("Este es un error tonto")
