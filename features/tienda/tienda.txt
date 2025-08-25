@@ -7,3 +7,10 @@ Correccion de bugs
 --------------------------
 
 Conexion con lista de productos
+
+--------------------------
+
+Actualización de la interfaz de usuario
+
+--------------------------
+
