@@ -1,1 +1,6 @@
 mi primera linea
+
+---------------------------
+
+Esto es una linea de codigo que te genera conflicto.
+LLama a quien hizo este desastre para ver como solucionarlo
