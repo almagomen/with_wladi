@@ -1,1 +1,5 @@
 La tienda ofrece una amplia variedad de productos locales y artesanales, brindando una experiencia única a cada cliente que la visita.
+
+--------------------------
+
+Correccion de bugs
